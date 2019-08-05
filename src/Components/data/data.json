@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Dạy Angular",
+        "primary":"Trung Bình",
+        "actor":"Việt,Hoàng",
+        "action":"Đang xử lý",
+        "status":"Đang xử lý"
+    },
+    {
+        "id":2,
+        "name":"Soạn python",
+        "primary":"Thấp",
+        "actor":"Việt,Tài",
+        "action":"Đang xử lý",
+        "status":"Đang xử lý"
+    },{
+        "id":3,
+        "name":"Dạy Reactjs",
+        "primary":"Cao",
+        "actor":"Nhi,Việt",
+        "action":"Đang xử lý",
+        "status":"Đang xử lý"
+    },{
+        "id":4,
+        "name":"Dạy Angular",
+        "primary":"Trung Bình",
+        "actor":"Tài,Hoàng",
+        "action":"Đang xử lý",
+        "status":"Đang xử lý"
+    }
+]
+  
